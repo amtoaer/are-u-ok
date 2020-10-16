@@ -34,7 +34,7 @@
 2. 进入项目目录`cd are-u-ok`
 3. 安装依赖`pip install -r requirements.txt`
 4. 执行`python ./main.py 学号 密码`
-
+ 
 之后日常打卡只需要执行`python ./main.py 学号 密码`
 
 
